@@ -1,0 +1,25 @@
+.container1{
+    border:10px solid red;
+    text-align: center;
+    width:75%;
+    margin:0 auto;
+    background-color: darkgreen;
+
+}
+.flex-box-container1{
+    display:flex;
+    border:1px solid black;
+    padding:10px;
+    justify-content:space-around;
+}
+.flex-box-container1 div{
+    padding:10px;
+    border:1px solid black;
+    align-items:center;
+}
+
+button{
+    height:50px;
+    width:70px;
+
+}
